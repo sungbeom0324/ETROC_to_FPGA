@@ -1,0 +1,12 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "TF06L_80S_0_5SH_800")(type "KiCad")(uri "${KIPRJMOD}/symbols/TF06L-80S-0_5SH_800_.kicad_sym")(options "")(descr ""))
+  (lib (name "ASP_134488_01")(type "KiCad")(uri "${KIPRJMOD}/symbols/ASP-134488-01.kicad_sym")(options "")(descr ""))
+  (lib (name "ASP_134406_01")(type "KiCad")(uri "${KIPRJMOD}/symbols/ASP-134604-01.kicad_sym")(options "")(descr ""))
+  (lib (name "MIC69502")(type "KiCad")(uri "${KIPRJMOD}/symbols/2026-03-20_08-54-04.kicad_sym")(options "")(descr ""))
+  (lib (name "HSE19-361616P")(type "KiCad")(uri "${KIPRJMOD}/symbols/HSE19-361616P.kicad_sym")(options "")(descr ""))
+  (lib (name "504102B00000G")(type "KiCad")(uri "${KIPRJMOD}/symbols/504102B00000G.kicad_sym")(options "")(descr ""))
+  (lib (name "5226993-3")(type "KiCad")(uri "${KIPRJMOD}/symbols/5226993-3.kicad_sym")(options "")(descr ""))
+  (lib (name "LTST-C190KRKT")(type "KiCad")(uri "${KIPRJMOD}/symbols/LTST-C190KRKT.kicad_sym")(options "")(descr ""))
+  (lib (name "ERJ-2GE0R00X")(type "KiCad")(uri "${KIPRJMOD}/symbols/ERJ-2GE0R00X.kicad_sym")(options "")(descr ""))
+)

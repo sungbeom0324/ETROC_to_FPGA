@@ -1,0 +1,20 @@
+# KiCad auto backup
+*-backups/
+*.bak
+*.kicad_sch-bak
+
+# User config.
+*.kicad_prl
+
+# Cache
+fp-info-cache
+
+# lock file (generated when is KiCad open)
+*.lck
+~*.lck
+
+# autosave
+_autosave-*
+
+# OS
+.DS_Store
