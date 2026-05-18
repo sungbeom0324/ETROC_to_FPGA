@@ -579,7 +579,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "/Users/chosungbeom/Desktop/0511_Gerber/",
+      "plot": "image/layout/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
@@ -740,7 +740,7 @@
       "workbook_filename": ""
     },
     "page_layout_descr_file": "",
-    "plot_directory": "",
+    "plot_directory": "image/",
     "space_save_all_events": true,
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
