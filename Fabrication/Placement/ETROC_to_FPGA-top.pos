@@ -1,0 +1,23 @@
+### Footprint positions - created on 2026-07-10T13:44:42 ###
+### Printed by KiCad version 10.0.3
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                   Package                                           PosX       PosY       Rot  Side
+C1        10uF                  C_0805_2012Metric_Pad1.18x1.45mm_HandSolder   -19.6971    39.9300  180.0000  top
+C4        10uF                  C_0805_2012Metric_Pad1.18x1.45mm_HandSolder   -14.1900    43.0900  180.0000  top
+J1        Conn_Coaxial          BNCLRPC140                                     -8.5000    98.2100    0.0000  top
+J2        Barrel_Jack           BarrelJack_CUI_PJ-063AH_Horizontal            -15.1000    28.5000  -90.0000  top
+J4        Conn_01x03            PinHeader_1x03_P2.54mm_Vertical                -2.4600    28.5500  -90.0000  top
+J5        TF06L-80S-0.5SH_800_  TF06L80S05SH800                                36.0000    73.0000    0.0000  top
+J6        TF06L-80S-0.5SH_800_  TF06L80S05SH800                                36.0000   105.0000    0.0000  top
+JP1       Jumper_2_Open         PinHeader_1x02_P2.54mm_Vertical                 5.2800    98.1600   90.0000  top
+R3        100k                  R_0805_2012Metric_Pad1.20x1.40mm_HandSolder   -18.9400    43.6000   90.0000  top
+R10       2k                    R_0805_2012Metric_Pad1.20x1.40mm_HandSolder    -6.4100    45.6400    0.0000  top
+R11       2.8k                  R_0805_2012Metric_Pad1.20x1.40mm_HandSolder   -10.0000    44.7500  -90.0000  top
+R25       3.3k                  R_0805_2012Metric_Pad1.20x1.40mm_HandSolder   -19.6875    36.6400  180.0000  top
+TP1       TP_GND                TestPoint_Pad_2.0x2.0mm                       -26.7000    46.9000    0.0000  top
+TP2       TP_1V2                TestPoint_Pad_2.0x2.0mm                        -6.0000    40.0600    0.0000  top
+TP3       TP_3V3                TestPoint_Pad_2.0x2.0mm                        -7.0800    34.1800    0.0000  top
+TP4       TP_1V0                TestPoint_Pad_2.0x2.0mm                         4.5800    50.7200  180.0000  top
+U1        MIC69502WR            S-PAK-7_MCH                                   -14.2400    54.4341    0.0000  top
+## End

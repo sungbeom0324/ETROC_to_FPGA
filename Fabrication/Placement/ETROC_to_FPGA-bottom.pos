@@ -1,0 +1,35 @@
+### Footprint positions - created on 2026-07-10T13:44:42 ###
+### Printed by KiCad version 10.0.3
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val            Package                                           PosX       PosY       Rot  Side
+C2        100pF          C_0805_2012Metric_Pad1.18x1.45mm_HandSolder    26.3900    33.3225   90.0000  bottom
+C3        100pF          C_0805_2012Metric_Pad1.18x1.45mm_HandSolder    19.2000    33.2025   90.0000  bottom
+C5        10uF           C_0805_2012Metric_Pad1.18x1.45mm_HandSolder     4.8100    44.1500    0.0000  bottom
+C12       10uF           C_0805_2012Metric_Pad1.18x1.45mm_HandSolder    11.1575    44.4000  180.0000  bottom
+J7        ASP-134604-01  ASP13460401                                    34.5000    10.0000    0.0000  bottom
+R4        240k           R_0805_2012Metric_Pad1.20x1.40mm_HandSolder    29.1900    44.4400    0.0000  bottom
+R5        240k           R_0805_2012Metric_Pad1.20x1.40mm_HandSolder    22.1200    44.4000    0.0000  bottom
+R6        2.2k           R_0805_2012Metric_Pad1.20x1.40mm_HandSolder    30.7800    41.9100    0.0000  bottom
+R7        2.2k           R_0805_2012Metric_Pad1.20x1.40mm_HandSolder    23.8400    41.9000    0.0000  bottom
+R8        2.2k           R_0805_2012Metric_Pad1.20x1.40mm_HandSolder    28.9100    39.0500  180.0000  bottom
+R9        2.2k           R_0805_2012Metric_Pad1.20x1.40mm_HandSolder    21.6300    39.0600  180.0000  bottom
+R12       200k           R_0805_2012Metric_Pad1.20x1.40mm_HandSolder    26.1300    28.2600   90.0000  bottom
+R13       200k           R_0805_2012Metric_Pad1.20x1.40mm_HandSolder    18.3400    28.4700   90.0000  bottom
+R14       2.2k           R_0805_2012Metric_Pad1.20x1.40mm_HandSolder    28.9600    28.0900   90.0000  bottom
+R15       2.2k           R_0805_2012Metric_Pad1.20x1.40mm_HandSolder    20.9200    27.8900   90.0000  bottom
+R16       2.2k           R_0805_2012Metric_Pad1.20x1.40mm_HandSolder    31.2800    28.0800   90.0000  bottom
+R17       2.2k           R_0805_2012Metric_Pad1.20x1.40mm_HandSolder    23.5200    27.8900   90.0000  bottom
+R18       100k           R_0805_2012Metric_Pad1.20x1.40mm_HandSolder     2.7200    41.6400  180.0000  bottom
+R19       1k             R_0805_2012Metric_Pad1.20x1.40mm_HandSolder    38.2000    51.5000  -90.0000  bottom
+R20       1k             R_0805_2012Metric_Pad1.20x1.40mm_HandSolder    43.2000    51.5000   90.0000  bottom
+R35       2.8k           R_0805_2012Metric_Pad1.20x1.40mm_HandSolder    14.0000    37.2500    0.0000  bottom
+R36       2.8k           R_0805_2012Metric_Pad1.20x1.40mm_HandSolder    12.3000    41.1900   90.0000  bottom
+R47       1k             R_0805_2012Metric_Pad1.20x1.40mm_HandSolder    42.0000    28.0000  -90.0000  bottom
+R48       1k             R_0805_2012Metric_Pad1.20x1.40mm_HandSolder    46.5000    28.0000   90.0000  bottom
+R73       1k             R_0805_2012Metric_Pad1.20x1.40mm_HandSolder    51.0000    28.0000  -90.0000  bottom
+R74       1k             R_0805_2012Metric_Pad1.20x1.40mm_HandSolder    55.4000    28.0000   90.0000  bottom
+U2        PCA9306DCTR    SSOP-8_2.95x2.8mm_P0.65mm                      30.3000    34.0000  -90.0000  bottom
+U3        PCA9306DCTR    SSOP-8_2.95x2.8mm_P0.65mm                      23.0000    34.0000  -90.0000  bottom
+U5        MIC69502WR     S-PAK-7_MCH                                     6.4250    32.8750    0.0000  bottom
+## End
